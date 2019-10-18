@@ -1,0 +1,14 @@
+table.bangtinh {
+	text-align: right;
+}
+.laisuat_muaoto_left {
+    width: 29%;
+    float: left;
+}
+.laisuat_muaoto_right {
+    width: 69%;
+    float: right;
+}
+.button-div {
+	margin-top: 10px;
+}
